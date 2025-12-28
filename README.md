@@ -41,7 +41,7 @@ groups generate revenue?
 
 **Visualization:**
 
-<img src="images/5.2_customer_revenue_normalized.png" width="50%">
+![Cohort Analysis](/images/5.2_customer_revenue_normalized.png)
 
 **Key Findings:**
 - Revenue per customer shows an alarming decreasing trend over time
@@ -67,7 +67,7 @@ revenue decline.
 
 **Visualization:**
 
-<img src="images/7.3_customer_churn_cohort_year.png" width="50%">
+![Retention Analysis](/images/7.3_customer_churn_cohort_year.png)
 
 
 **Key Findings:**
