@@ -41,7 +41,7 @@ groups generate revenue?
 
 **Visualization:**
 
-<img src="images/5.2_customer_revenue_normalized.png" width="75%">
+<img src="images/5.2_customer_revenue_normalized.png" width="65%">
 
 
 **Key Findings:**
@@ -68,7 +68,7 @@ revenue decline.
 
 **Visualization:**
 
-<img src="images/7.3_customer_churn_cohort_year.png" width="75%">
+<img src="images/7.3_customer_churn_cohort_year.png" width="65%">
 
 
 **Key Findings:**
